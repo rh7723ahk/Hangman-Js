@@ -1,0 +1,25 @@
+{
+  "name": "my-hangman",
+  "version": "1.0.0",
+  "description": "A console-based hangman app written in Node.js and incorporates objects, user-input, and constructors.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rh7723ahk/Hangman-Js.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "ryanhyadne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rh7723ahk/Hangman-Js/issues"
+  },
+  "homepage": "https://github.com/rh7723ahk/Hangman-Js#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
